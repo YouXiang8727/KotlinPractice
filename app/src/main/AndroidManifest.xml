@@ -15,6 +15,9 @@
         android:theme="@style/Theme.KotlinPractice"
         tools:targetApi="31">
         <activity
+            android:name=".CoroutineTestActivity"
+            android:exported="false" />
+        <activity
             android:name=".HiltTestActivity"
             android:exported="false" />
         <activity
