@@ -1,0 +1,8 @@
+20200610 Hilt設定
+REF: https://developer.android.com/training/dependency-injection/hilt-android?authuser=1
+1. build.gradle(Project)新增buildscript{} **必須至於最頂層
+2. 修改buildscript內容，新增版本及dependencies，新增plugin
+3. build.gradle(Module) dependencies新增依賴項，plugin{}新增id
+4. 新增App class繼承Application()，加入@HiltAndroidApp宣告
+5. AndroidManifest application{}新增android:name=".App"屬性
+----------------------------------------------------------------------------------------------------

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content">
+
+    <com.google.android.material.card.MaterialCardView
+        android:id="@+id/card_view_activity_info"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="8dp">
+
+        <TextView
+            android:id="@+id/text_view_activity_name"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            style="@style/default_textview_style"/>
+
+    </com.google.android.material.card.MaterialCardView>
+
+</FrameLayout>
