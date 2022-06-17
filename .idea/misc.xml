@@ -3,10 +3,13 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/workspace/KotlinPractice/app/src/main/res/layout/activity_coroutine_test.xml" value="0.17806484295845998" />
         <entry key="..\:/workspace/KotlinPractice/app/src/main/res/layout/activity_hilt_test.xml" value="0.358695652173913" />
         <entry key="..\:/workspace/KotlinPractice/app/src/main/res/layout/activity_hilt_test_without_view_binding.xml" value="0.1875" />
         <entry key="..\:/workspace/KotlinPractice/app/src/main/res/layout/activity_main.xml" value="0.358695652173913" />
+        <entry key="..\:/workspace/KotlinPractice/app/src/main/res/layout/activity_room_test.xml" value="0.1875" />
         <entry key="..\:/workspace/KotlinPractice/app/src/main/res/layout/recycler_view_item_activity.xml" value="0.358695652173913" />
+        <entry key="..\:/workspace/KotlinPractice/app/src/main/res/layout/recycler_view_item_word.xml" value="0.4263990267639903" />
       </map>
     </option>
   </component>

@@ -1,4 +1,4 @@
-package com.youxiang8727.kotlinpractice.HiltPractice
+package com.youxiang8727.kotlinpractice.Hilt
 
 import android.util.Log
 import com.youxiang8727.kotlinpractice.Constant

@@ -4,8 +4,8 @@ import androidx.room.Entity
 import androidx.room.PrimaryKey
 
 @Entity
-data class Model(
-    @PrimaryKey(autoGenerate = true) val id: Int,
+data class Word(
+    @PrimaryKey(autoGenerate = true) val id: Int = 0,
     val chinese: String,
     val english: String
 ) {

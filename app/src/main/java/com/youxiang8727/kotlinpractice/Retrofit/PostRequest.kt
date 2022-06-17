@@ -1,4 +1,7 @@
 package com.youxiang8727.kotlinpractice.Retrofit
 
-class PostRequest {
+data class PostRequest(
+    val name: String,
+    val sex: Int
+) {
 }
